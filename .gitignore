@@ -1,0 +1,23 @@
+
+# Compiled Java files
+*.class
+
+# NetBeans generated output
+/build/
+/dist/
+/nbproject/private/
+
+# Temporary and log files
+*.log
+*.tmp
+*.bak
+
+# Local game score data
+pingpong_scores.txt
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# VS Code workspace settings
+.vscode/
